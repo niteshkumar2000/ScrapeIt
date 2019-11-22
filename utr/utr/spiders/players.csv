@@ -1,0 +1,563 @@
+displayname,gender,isPro,id,location,myUtrSingles,myUtrDoubles,myUtrStatusSingles,myUtrStatusDoubles,nationality,event_id
+Roman Bogoduhov,M,False,1411132,"Minsk, Belarus",7.0,7.0,Unrated,Unrated,BLR,6091
+Aaryan Modi,M,False,1372221,"South Brunswick Township, NJ",5.0,5.0,Unrated,Unrated,USA,5508
+Harsha Ganta,M,False,683525,"San Diego, CA",5.0,0.0,Rated,Unrated,USA,118
+Ishan Deshpande,M,False,1157987,"San Diego, CA",3.0,0.0,Projected,Unrated,USA,118
+Hannah Im,F,False,1066917,"San Diego, CA",2.0,1.0,Rated,Unrated,USA,118
+Nolan Duncan,M,False,1260350,"Poway, CA",5.0,5.0,Unrated,Unrated,USA,118
+Thea Sharma,F,False,1093440,"San Diego, CA",4.0,4.0,Unrated,Unrated,USA,118
+Raghav Haravu,M,False,593429,"San Diego, CA",3.0,0.0,Rated,Unrated,USA,118
+Tristan Harpster,M,False,1244075,"San Diego, CA",3.0,7.0,Rated,Unrated,USA,118
+Dominic Smith,M,False,203793,"Rancho Santa Fe, CA",5.0,5.0,Rated,Projected,USA,118
+Brian Zhang,M,False,270720,"San Diego, CA",6.0,6.0,Projected,Projected,USA,118
+Marcella Archambeault,F,False,222761,"San Marcos, CA",4.0,4.0,Unrated,Unrated,USA,118
+Andrew Ivasyk,M,False,1095409,"San Diego, CA",5.0,5.0,Unrated,Unrated,USA,118
+Payton Parker,F,False,412632,"Rancho Santa Fe, CA",5.0,5.0,Rated,Rated,USA,118
+Aiden Pu,M,False,584295,,5.0,5.0,Rated,Projected,USA,118
+Tianyu Tan,F,False,1046988,"San Diego, CA",2.0,2.0,Rated,Unrated,USA,118
+Michael Libutti,M,False,1042733,"San Diego, CA",4.0,4.0,Rated,Projected,USA,118
+Cohan Jog,M,False,780205,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Angela Kim,F,False,943375,"San Diego, CA",1.0,1.0,Unrated,Unrated,USA,118
+Samantha Harpster,F,False,1350640,"San Diego, CA",2.0,2.0,Unrated,Unrated,USA,118
+Shivanshi Sharma,F,False,269121,"San Diego, CA",6.0,6.0,Rated,Projected,USA,118
+Dylan Angstead,F,False,1357571,"San Diego, CA",2.0,2.0,Unrated,Unrated,USA,118
+Ryan Qin,M,False,915289,"San Diego, CA",3.0,0.0,Rated,Unrated,USA,118
+Anirudha Rajesh Rao,M,False,642435,"San Diego, CA",7.0,7.0,Rated,Projected,IND,118
+Max Segal,M,False,412635,"San Diego, CA",5.0,0.0,Rated,Unrated,USA,118
+Joaquin Anand,M,False,371782,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Nadaraj Vishnu,M,False,1060831,"San Diego, CA",1.0,7.0,Rated,Unrated,USA,118
+Chaeyule Kang,F,False,634968,"San Diego, CA",4.0,4.0,Rated,Projected,USA,118
+Niranjan Deshpande,M,False,1320654,"San Diego, CA",1.0,3.0,Projected,Unrated,USA,118
+Ryan Bourne,M,False,897976,"Escondido, CA",1.0,1.0,Unrated,Unrated,USA,118
+Alisa Privorotskiy,F,False,634940,"San Diego, CA",3.0,4.0,Rated,Unrated,USA,118
+Ayanna Shah,F,False,960685,"San Diego, CA",4.0,4.0,Unrated,Unrated,USA,118
+Surabhi Raghavendra,F,False,981629,"San Diego, CA",1.0,1.0,Unrated,,USA,118
+Christopher Weng,M,False,729532,"San Diego, CA",3.0,0.0,Rated,Unrated,USA,118
+Krish Mandadi,M,False,970161,"San Diego, CA",7.0,7.0,Unrated,Unrated,USA,118
+Brundasree Unadi,F,False,896054,San Diego,2.0,1.0,Rated,Unrated,,118
+Reina Chu,F,False,101339,"San Diego, CA",5.0,6.0,Rated,Projected,USA,118
+Arnav Swami,M,False,981293,"San Diego, CA",3.0,6.0,Rated,Unrated,USA,118
+Akhil Nandhakumar,M,False,793337,"San Diego, CA",7.0,7.0,Rated,Rated,USA,118
+Claire Guo,F,False,885724,"San Diego, CA",3.0,5.0,Rated,Unrated,USA,118
+Lindsay Zhang,F,False,1228541,"San Diego, CA",3.0,0.0,Rated,Unrated,USA,118
+Durga Vishnu,F,False,1059861,"San Diego, CA",1.0,1.0,Rated,Unrated,USA,118
+Anirudh Ramachandran,M,False,1258713,"San Diego, CA",7.0,7.0,Unrated,Unrated,USA,118
+Evelyn Cheng,F,False,244147,"San Diego, CA",6.0,0.0,Rated,Unrated,USA,118
+Emma Cao,F,False,360713,"San Diego, CA",5.0,0.0,Rated,Unrated,USA,118
+Paaramita Asuri,F,False,962397,"San Diego, CA",1.0,2.0,Rated,Unrated,USA,118
+Sophie Zeng,F,False,584296,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Khang Benji Hoang,M,False,1042581,"San Diego, CA",3.0,4.0,Rated,Unrated,USA,118
+David Wu,M,False,1395672,"San Diego, CA",5.0,3.0,Rated,Unrated,USA,118
+Yatheesh Unadi,M,False,833567,"San Diego, CA",7.0,7.0,Rated,Projected,USA,118
+Abigail Nguyen,F,False,573232,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Robert Abramov,M,False,170145,,0.0,0.0,Unrated,Unrated,USA,118
+Andre Wang,M,False,1345270,"San Diego, CA",1.0,0.0,Projected,Unrated,USA,118
+Zach Kaiser,M,False,1055357,"Poway, CA",2.0,2.0,Unrated,Unrated,USA,118
+Arav Jog,M,False,713915,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Darren Wei,M,False,791044,"San Diego, CA",5.0,5.0,Rated,Projected,USA,118
+Waleed Randhawa,M,False,481270,"San Diego, CA",6.0,6.0,Unrated,Unrated,USA,118
+Savannah Harpster,F,False,1350641,"San Diego, CA",2.0,2.0,Unrated,Unrated,USA,118
+Sumit Gupta,M,False,773397,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Jason Liu,M,False,297575,"San Diego, CA",5.0,6.0,Rated,Unrated,USA,118
+Shreyas Rangan,M,False,481274,"San Diego, CA",2.0,0.0,Projected,Unrated,USA,118
+Samantha Cheng,F,False,558119,"San Diego, CA",5.0,0.0,Rated,Unrated,USA,118
+Brinda Srinivasan ,F,False,1228543,"San Diego, CA",3.0,3.0,Unrated,Unrated,USA,118
+Maxwell Sipes,M,False,1032753,"San Diego, CA",3.0,0.0,Projected,Unrated,USA,118
+Ryan Liu,M,False,901287,,4.0,3.0,Rated,Unrated,,118
+Bruce Allen,M,False,1379666,"Poway, CA",7.0,7.0,Unrated,Unrated,USA,118
+Cynthia Huang,F,False,856847,"San Diego, CA",3.0,2.0,Projected,Unrated,USA,118
+Amy Xu,F,False,251536,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Gabrielle Basa,F,False,261739,"Oceanside, CA",5.0,0.0,Rated,Unrated,USA,118
+Shivam Pansuria,M,False,1093435,"San Diego, CA",3.0,3.0,Rated,Unrated,USA,118
+Robert Freedman,M,False,264096,"San Diego, CA",6.0,6.0,Rated,Projected,USA,118
+Alexander Do,M,False,191717,"San Diego, CA",7.0,7.0,Rated,Projected,USA,118
+Saurav Nagpal,M,False,593431,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Billy Chen,M,False,802365,"San Diego, CA",5.0,0.0,Rated,Unrated,USA,118
+Arjun Kaushik,M,False,1083660,"San Diego, CA",1.0,6.0,Rated,Unrated,USA,118
+Andrew Pu,M,False,960196,"San Diego, CA",4.0,2.0,Rated,Unrated,USA,118
+Julian Ignatov,M,False,297538,"Encinitas, CA",4.0,0.0,Projected,Unrated,USA,118
+Charliz Tabili,F,False,881914,"San Diego, CA",3.0,5.0,Rated,Unrated,USA,118
+Miran Rahim,M,False,1283446,"San Diego, CA",2.0,6.0,Rated,Unrated,USA,118
+Ted Knickrehm,M,False,294173,"Rancho Santa Fe, CA",6.0,6.0,Rated,Rated,USA,118
+Anushka Gupta,F,False,950233,"San Diego, CA",5.0,5.0,Unrated,Unrated,USA,118
+Arnon Jittathai,M,False,832239,"San Diego, CA",3.0,0.0,Rated,Unrated,USA,118
+Ethan Wang,M,False,1374396,"San Diego, CA",2.0,2.0,Unrated,Unrated,USA,118
+Sannidhi Tatsavith,F,False,1086983,"San Diego, CA",4.0,4.0,Unrated,Unrated,USA,118
+Ryan Sun,M,False,573258,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Cole Hunter,M,False,360704,"Santee, CA",6.0,0.0,Rated,Unrated,USA,118
+Kamran Jalisi,M,False,1374689,"Poway, CA",6.0,6.0,Unrated,Unrated,USA,118
+Shryuk Grandhi,M,False,970160,"San Diego, CA",1.0,4.0,Rated,Unrated,USA,118
+Sydney Parker,F,False,934564,"Rancho Santa Fe, CA",3.0,0.0,Projected,Unrated,USA,118
+Kavya Gupta,F,False,775161,"San Diego, CA",3.0,3.0,Rated,Projected,USA,118
+Ishita Vasishtha,F,False,947711,"San Diego, CA",2.0,3.0,Rated,Unrated,USA,118
+Raymond Chan,M,False,861623,,3.0,3.0,Unrated,Unrated,,118
+Sophie Sipes,F,False,1013161,"San Diego, CA",2.0,8.0,Rated,Unrated,USA,118
+Amara Sai Kunal,M,False,1295236,"San Diego, CA",5.0,0.0,Rated,Unrated,USA,118
+Iksha Kukkal,F,False,1298753,"San Diego, CA",1.0,2.0,Projected,Unrated,USA,118
+Chloe Angstead,F,False,1357572,"San Diego, CA",2.0,2.0,Unrated,Unrated,USA,118
+Brighton Read,M,False,396815,"San Diego, CA",7.0,7.0,Rated,Projected,USA,118
+Kevin Yang,M,False,294198,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Wyatt Burns,M,False,661025,"San Diego, CA",6.0,6.0,Rated,Projected,USA,118
+Linke Tan,M,False,1338033,"Shanghai, China",3.0,3.0,Unrated,Unrated,CHN,6157
+Ryan Jiang,M,False,1346206,"Shanghai, China",7.0,7.0,Unrated,Unrated,USA,6157
+Jeffrey Ming Liang,M,False,1315759,China,5.0,5.0,Unrated,Unrated,USA,6157
+Ruilin Feng,M,False,821894,China,8.0,9.0,Projected,Projected,CHN,6157
+Estelle Denker,F,False,1024334,China,4.0,4.0,Rated,Projected,,6157
+Brandon Cheah,M,False,593424,"San Diego, CA",4.0,4.0,Rated,Projected,USA,118
+Mariah Lazo,F,False,1330868,"San Diego, CA",3.0,3.0,Unrated,Unrated,USA,118
+Justin Zhang,M,False,412644,"San Diego, CA",6.0,0.0,Rated,Unrated,USA,118
+Gaurav Gupta,M,False,838184,"San Diego, CA",2.0,0.0,Rated,Unrated,USA,118
+Jordan Morris,M,False,1368834,"Ramona, CA",3.0,3.0,Unrated,Unrated,USA,118
+Sai Pranavi Vakkala,F,False,878468,CA,4.0,4.0,Unrated,Unrated,USA,118
+Sharan Haravu,M,False,833490,"San Diego, CA",3.0,0.0,Rated,Unrated,USA,118
+Lawrence Liu,M,False,1013255,"San Diego, CA",3.0,1.0,Rated,Unrated,USA,118
+Antara Kundu,F,False,1380358,"San Diego, CA",4.0,4.0,Unrated,Unrated,USA,118
+Pranavi Immanni,F,False,1392775,"San Diego, CA",5.0,5.0,Unrated,Unrated,USA,118
+Shannon Zhu,F,False,301889,"San Diego, CA",5.0,5.0,Rated,Rated,USA,118
+Logan Pham,M,False,371781,"San Diego, CA",5.0,0.0,Rated,Unrated,USA,118
+Samantha Herman,F,False,801920,"San Diego, CA",4.0,0.0,Rated,Unrated,USA,118
+Anna Cao,F,False,763342,"San Diego, CA",2.0,0.0,Rated,Unrated,USA,118
+Anze Li,M,False,1392812,"San Diego, CA",3.0,3.0,Unrated,Unrated,USA,118
+Ava Elleraas,F,False,661019,"San Diego, CA",3.0,0.0,Rated,Unrated,USA,118
+Ryan Wang,M,False,1374391,"San Diego, CA",8.0,8.0,Unrated,Unrated,USA,118
+Nicole Eckard ,F,False,985902,"San Diego, CA",3.0,4.0,Projected,Projected,USA,118
+Tiffinie Harpster,F,False,296586,"San Diego, CA",6.0,6.0,Rated,Rated,USA,118
+Jackson Chu,M,False,832747,"San Diego, CA",6.0,6.0,Rated,Projected,USA,118
+Fred Soto,M,False,962368,Poway,6.0,6.0,Unrated,Unrated,,118
+Christina Sturgeon ,F,False,748804,"San Diego, CA",4.0,4.0,Rated,Projected,USA,118
+Hubert Chen,M,False,1356464,"San Diego, CA",4.0,4.0,Unrated,Unrated,USA,118
+Livia Wang,F,False,992809,"San Diego, CA",4.0,4.0,Rated,Projected,USA,118
+Juliette Fogarty,F,False,584298,"San Diego, CA",5.0,4.0,Rated,Projected,USA,118
+Grayson Jantz,M,False,1384940,"Carrollton, TX",1.0,2.0,Projected,Projected,USA,5060
+Manuel Carreon,M,False,1390851,"Frisco, TX",4.0,4.0,Unrated,Unrated,USA,5060
+Collin Fontenot,M,False,1367398,"Heath, TX",2.0,2.0,Unrated,Unrated,USA,5060
+David Carreon,M,False,1375210,"Frisco, TX",6.0,6.0,Unrated,Unrated,USA,5060
+Darrel Fontenot,M,False,463328,"Forney, TX",0.0,0.0,Unrated,Unrated,USA,5060
+Nigel Gudgeon,M,False,1338678,"Carrollton, TX",3.0,2.0,Projected,Projected,USA,5060
+Tyler Tellalian,M,False,991259,"Far Hills, NJ",4.0,0.0,Projected,Unrated,USA,5420
+Jack Kreisberg,M,False,598210,"New York, NY",7.0,7.0,Rated,Projected,USA,5420
+Evan Glotzer,M,False,1008543,"South Orange, NJ",5.0,5.0,Rated,Unrated,USA,5420
+Isabel Winebrenner ,F,False,987527,"Louisville, KY",2.0,2.0,Rated,Projected,USA,5937
+Shlok Apani,M,False,1240735,"Louisville, KY",4.0,4.0,,,USA,5937
+Raakin Shah,M,False,892578,,16.0,16.0,Unrated,Unrated,USA,5937
+Raymond Liu,M,False,389823,"Lilburn, GA",6.0,6.0,Rated,Projected,USA,5767
+Sarah Mcdonald,F,False,950316,"Lilburn, GA",4.0,4.0,Unrated,Unrated,USA,5767
+Rebie Benedict,F,False,189415,,5.0,5.0,Rated,Projected,USA,5767
+Isabel Carter,F,False,454783,"Atlanta, GA",5.0,5.0,Rated,Projected,USA,5767
+Jaxon Jester,M,False,1303060,"Dunwoody, GA",2.0,2.0,Unrated,Unrated,USA,5767
+Coleton Seferovich ,M,False,1021661,"Atlanta, GA",2.0,3.0,Rated,Projected,USA,5767
+Jackson Seferovich,M,False,1366850,"Atlanta, GA",5.0,5.0,Unrated,Unrated,USA,5767
+Alex Ebert,M,False,932257,"Atlanta, GA",3.0,3.0,Projected,Projected,USA,5767
+Jack Peters,M,False,377595,"Atlanta, GA",4.0,4.0,Rated,Projected,USA,5767
+Hunter Fankhauser,M,False,843418,"Atlanta, GA",5.0,5.0,Rated,Rated,USA,5767
+Kaitlyn Garrett,F,False,180510,"Atlanta, GA",3.0,3.0,Projected,Projected,USA,5767
+Connor Murphy,M,False,148243,"Marietta, GA",8.0,8.0,Rated,Rated,USA,5767
+Katie Collar,F,False,194511,"Marietta, GA",5.0,5.0,Projected,Projected,USA,5767
+Sebastian Galla ,M,False,989721,"Peachtree City, GA",4.0,4.0,Rated,Projected,USA,5767
+Karine Galla ,F,False,497821,"Peachtree City, GA",3.0,4.0,Projected,Rated,USA,5767
+Jonathan Molner,M,False,176625,"Atlanta, GA",8.0,9.0,Rated,Rated,USA,5767
+Arya Mishra,M,False,140615,"Sandy Springs, GA",7.0,8.0,Rated,Rated,USA,5767
+Isabella Ferrer,F,False,216595,"Dunwoody, GA",5.0,6.0,Rated,Rated,USA,5767
+Kyle Ferrer,M,False,1411213,"Dunwoody, GA",7.0,7.0,Unrated,Unrated,USA,5767
+Leyton Dunn,M,False,398987,"Newnan, GA",5.0,5.0,Unrated,Unrated,USA,5767
+Lilly Anderson,F,False,795523,"Hopkins, MN",3.0,3.0,Rated,Rated,USA,4857
+Jack Berge,M,False,1315278,"Maple Grove, MN",3.0,3.0,Unrated,Unrated,USA,4857
+Elizabeth Trevathan,F,False,877623,"Cottage Grove, MN",4.0,4.0,Rated,Rated,USA,4857
+Cassie Stidman,F,False,454139,,4.0,3.0,Rated,Rated,USA,4857
+Rayhan Sameer,M,False,1103321,"Chanhassen, MN",3.0,3.0,Unrated,Unrated,USA,4857
+Kinsey Greene,F,False,211296,"Edina, MN",4.0,3.0,Rated,Projected,USA,4857
+Athena Wang,F,False,814433,"Edina, MN",4.0,4.0,Unrated,Unrated,USA,4857
+Grace Wilson,F,False,1233490,"Hugo, MN",3.0,3.0,Unrated,Unrated,USA,4857
+Sagar Sridhar,M,False,1283273,"Plymouth, MN",2.0,2.0,Unrated,Unrated,USA,4857
+Braden Fitzgerald,M,False,921986,"Minneapolis, MN",2.0,0.0,Projected,Unrated,USA,4857
+Audrey Anderson,F,False,777424,"Hopkins, MN",4.0,3.0,Rated,Rated,USA,4857
+Winston Wheaton,M,False,1325983,"Excelsior, MN",4.0,6.0,Unrated,Unrated,USA,4857
+Margaret Johnson,F,False,186059,"Edina, MN",4.0,4.0,Rated,Rated,USA,4857
+Molly Austin,F,False,319022,"Arden Hills, MN",6.0,5.0,Rated,Rated,USA,4857
+Samuel Kroening,M,False,998291,"Minneapolis, MN",3.0,3.0,Unrated,Unrated,USA,4857
+Arianna Piedrahita,F,False,207141,"Hopkins, MN",5.0,5.0,Rated,Rated,USA,4857
+William Wheaton,M,False,239211,"Excelsior, MN",5.0,5.0,Projected,Projected,USA,4857
+Avery Nelson,M,False,1054812,"Minneapolis, MN",2.0,2.0,Unrated,Unrated,USA,4857
+Lily Santoni,F,False,1228785,"Minneapolis, MN",1.0,1.0,Unrated,Unrated,USA,4857
+Reese Burton,F,False,203536,"Lakeville, MN",4.0,4.0,Unrated,Unrated,USA,4857
+Riley Burton,F,False,192250,"Burnsville, MN",4.0,4.0,Unrated,Unrated,USA,4857
+Collin Larson,M,False,958265,"Apple Valley, MN",6.0,6.0,Unrated,Unrated,,4857
+Adam Taylor,M,False,154367,"Ennis, TX",10.0,9.0,Rated,Rated,USA,5405
+Sydney Williams,F,False,129240,"Austin, TX",8.0,7.0,Rated,Rated,USA,5405
+Patricio Garcia Muriel,M,False,364507,"Mexico City, Mexico",10.0,12.0,Rated,Unrated,MEX,5405
+Shaye Grant,M,False,855103,"Spicewood, TX",6.0,6.0,Unrated,Unrated,USA,5405
+Dylan Whited,M,False,1313397,"Spicewood, TX",6.0,1.0,Rated,Unrated,USA,5405
+Jack Ingram,M,False,287431,"Austin, TX",7.0,10.0,Rated,Unrated,USA,5405
+Lathan Skrobarcek,M,False,254643,"Helotes, TX",8.0,8.0,Rated,Rated,USA,5405
+Alex Sheddan,M,False,230974,"Lakeway, TX",9.0,8.0,Unrated,Projected,USA,5405
+Eli Susser,M,False,146990,"Corpus Christi, TX",8.0,9.0,Rated,Unrated,USA,5405
+Brandon Giordanelli,M,False,728993,"San Antonio, TX",10.0,10.0,Rated,Rated,USA,5405
+Joel Trammell,M,False,407936,"Austin, TX",0.0,9.0,Unrated,Projected,USA,5405
+Jonathan Snell,M,False,111525,"Austin, TX",9.0,8.0,Rated,Rated,USA,5405
+Kerry Lum,F,False,196764,"Austin, TX",7.0,6.0,Rated,Projected,USA,5405
+Jaimie Li,F,False,287461,"Austin, TX",6.0,6.0,Rated,Rated,USA,5405
+Ross Cockrell,M,False,214181,"Austin, TX",8.0,8.0,Rated,Rated,USA,5405
+Edward Wu,M,False,269239,"Austin, TX",7.0,4.0,Rated,Projected,USA,5405
+Brayden Michna,M,False,116065,"Taylor, TX",11.0,11.0,Rated,Rated,USA,5405
+Oliver Garcia,M,False,811586,"Austin, TX",4.0,3.0,Rated,Projected,USA,5405
+Tallulah Andrushko,F,False,154338,"Austin, TX",8.0,7.0,Rated,Rated,USA,5405
+Sophia Rashid,F,False,207589,"New Braunfels, TX",7.0,7.0,Rated,Rated,USA,5405
+Kendall Cedar,F,False,1033418,"Austin, TX",4.0,4.0,Unrated,Unrated,USA,5405
+Juliana Creel,F,False,946440,"Vlg O The Hls, TX",7.0,7.0,Rated,Rated,USA,5405
+William Mcewan,M,False,800458,"Austin, TX",4.0,4.0,Rated,Rated,USA,5405
+Bailey Forgus,M,False,96539,"Austin, TX",11.0,11.0,Rated,Rated,USA,5405
+Daniel Gill,M,False,161429,"Shavano Park, TX",10.0,10.0,Rated,Rated,USA,5405
+James Cockrell,M,False,161490,"Austin, TX",11.0,10.0,Rated,Rated,USA,5405
+Brooklynn Pruneda,F,False,815264,"Austin, TX",3.0,3.0,Rated,Projected,USA,5405
+Matthew Gavrilov,M,False,104351,"Austin, TX",10.0,9.0,Rated,Rated,USA,5405
+Mert Arabaci,M,False,446744,"Stillwater, OK",11.0,11.0,Rated,Projected,,5405
+Coleson Stokes,M,False,956293,"Roanoke, TX",1.0,1.0,Unrated,Unrated,USA,5405
+Michael Malyshev,M,False,669922,"Austin, TX",3.0,3.0,Rated,Projected,USA,5405
+Payton Holden,M,False,1260444,"The Hills, TX",12.0,13.0,Rated,Rated,USA,5405
+Denver Holden,M,False,226449,"Austin, TX",9.0,9.0,Rated,Rated,USA,5405
+Dana Kardonik,F,False,374086,"Austin, TX",6.0,6.0,Rated,Rated,USA,5405
+James Christiano,M,False,970544,"Bee Cave, TX",6.0,7.0,Rated,Unrated,USA,5405
+Joseph Snyman,M,False,1250685,"San Antonio, TX",6.0,6.0,Rated,Projected,USA,5405
+Charles Reiman,M,False,130913,"Houston, TX",10.0,9.0,Rated,Rated,USA,5405
+Lauren Beville,F,False,1402803,"New Braunfels, TX",5.0,5.0,Rated,Projected,,5405
+Jacqueline Creel,F,False,195858,"Austin, TX",7.0,6.0,Rated,Projected,USA,5405
+Nick Mccollin,M,False,1399901,"Austin, TX",13.0,13.0,Unrated,Unrated,GBR,5405
+Nancy Claire Fertitta,F,False,976445,,5.0,5.0,Unrated,Unrated,USA,5405
+Aj Valenty,M,False,1034829,"Austin, TX",12.0,12.0,Unrated,Unrated,USA,5405
+Jacqueline Schnabel,F,False,230998,"New Braunfels, TX",7.0,7.0,Rated,Rated,USA,5405
+Reagan Dixon,F,False,204937,"Plano, TX",5.0,5.0,Rated,Rated,USA,5405
+Emerson Hammes,F,False,363316,"Austin, TX",4.0,4.0,Rated,Rated,USA,5405
+Martin Kowalewski,M,False,1313969,"Austin, TX",5.0,5.0,Unrated,Unrated,USA,5405
+Caiden Riebold,M,False,800386,"Austin, TX",4.0,4.0,Rated,Projected,USA,5405
+Chloe Zeng,F,False,402655,"Austin, TX",7.0,6.0,Rated,Rated,USA,5405
+Lexian Andrushko,M,False,244181,"Austin, TX",8.0,7.0,Rated,Rated,USA,5405
+Dayne Grant,M,False,1353152,"Spicewood, TX",2.0,2.0,Rated,Projected,USA,5405
+Ansh Velagapudi,M,False,200871,"Lakeway, TX",9.0,8.0,Rated,Rated,USA,5405
+Whitney Robbins,F,False,136600,"Austin, TX",7.0,6.0,Rated,Rated,USA,5405
+Juan Martin,M,False,264340,Argentina,12.0,12.0,Projected,Projected,ARG,5405
+Lina Padegimaite,F,False,34120,"Austin, TX",10.0,10.0,Projected,Projected,,5405
+Taisia Kolpakova,F,False,319841,"San Antonio, TX",6.0,5.0,Rated,Rated,USA,5405
+Alexander Archer,M,False,110383,,10.0,10.0,Rated,Rated,USA,5405
+Travis Rafferty,M,False,111266,"San Antonio, TX",8.0,8.0,Rated,Projected,USA,5405
+Fate Roe,M,False,398679,"Dripping Springs, TX",7.0,6.0,Rated,Rated,USA,5405
+Scott Sheddan,M,False,526065,"Lakeway, TX",6.0,6.0,Rated,Projected,USA,5405
+Kapish Pendri,M,False,242017,"Austin, TX",8.0,8.0,Rated,Rated,USA,5405
+Chris Pruneda ,M,False,531055,"Austin, TX",6.0,6.0,Projected,Projected,USA,5405
+James Burdick,M,False,269956,"Austin, TX",8.0,8.0,Rated,Projected,USA,5405
+Milind Mutala,M,False,1424606,"Austin, TX",10.0,0.0,Rated,Unrated,USA,5405
+Lara Madan,F,False,1356093,"Austin, TX",0.0,0.0,Unrated,Unrated,USA,5405
+Janie Menikoff,F,False,832171,"Austin, TX",3.0,3.0,Unrated,Unrated,USA,5405
+Elena Keitt,F,False,167358,"Austin, TX",7.0,7.0,Rated,Rated,USA,5405
+Caden Marshall,M,False,259514,"Belton, TX",5.0,5.0,Rated,Projected,USA,5405
+Aidan Notzon,M,False,1042795,"San Antonio, TX",4.0,0.0,Projected,Unrated,USA,5405
+Mason Hart,M,False,1413125,"Spicewood, TX",7.0,0.0,Rated,Unrated,USA,5405
+Landon Skrobarcek,M,False,104935,"Helotes, TX",10.0,10.0,Rated,Rated,USA,5405
+Jordan Phillips,F,False,166363,"Austin, TX",7.0,7.0,Rated,Rated,USA,5405
+Nico Jamison,M,False,119134,"Greeley, CO",10.0,10.0,Rated,Rated,USA,5405
+Carlos Arana,M,False,216944,"Austin, TX",10.0,12.0,Rated,Unrated,,5405
+Elise Robbins,F,False,104523,"Austin, TX",9.0,9.0,Rated,Rated,USA,5405
+Ava Walrath,F,False,995195,"Austin, TX",2.0,2.0,Projected,Projected,USA,5405
+Austin Escobedo,M,False,222009,"Grand Prairie, TX",4.0,4.0,Projected,Projected,USA,5405
+Arjun Walling,M,False,288508,"Austin, TX",5.0,5.0,Rated,Projected,USA,5405
+Tatum Blalock,F,False,106153,"Austin, TX",8.0,6.0,Unrated,Projected,USA,5405
+Lindsay Beville,F,False,268807,"New Braunfels, TX",4.0,4.0,Rated,Projected,USA,5405
+Mohamed Abdel-Aziz,M,False,735680,Houston,12.0,12.0,Unrated,Rated,,5405
+Sofia Kardonik,F,False,140202,"Austin, TX",8.0,7.0,Rated,Projected,USA,5405
+Abigail Gorden,F,False,96531,"Austin, TX",8.0,8.0,Rated,Rated,USA,5405
+Ethan Evans,M,False,975938,"Austin, TX",2.0,2.0,Unrated,Unrated,USA,5405
+Christopher Doyal,M,False,404341,"San Antonio, TX",11.0,11.0,Unrated,Unrated,USA,5405
+Jarrett Mclure,M,False,110396,"San Antonio, TX",9.0,9.0,Rated,Rated,USA,5405
+Alexandra Malysheva,F,False,181202,"Austin, TX",8.0,9.0,Rated,Rated,USA,5405
+Kenna Erickson,F,False,742920,"Austin, TX",6.0,6.0,Rated,Rated,USA,5405
+Megan Humphrey,F,False,970995,"New Braunfels, TX",0.0,3.0,Inactive,Projected,USA,5405
+Lawrence Li,M,False,220713,"Austin, TX",10.0,10.0,Rated,Rated,USA,5405
+Jessica Mcmillen ,F,False,526608,"Austin, TX",0.0,3.0,Unrated,Projected,USA,5405
+Brian Notis,M,False,946095,"Dripping Springs, TX",0.0,0.0,Unrated,Unrated,USA,5405
+Jack Newman,M,False,1009832,"Vlg O The Hls, TX",5.0,5.0,Unrated,Unrated,USA,5405
+Diego Tavera,M,False,369378,"San Antonio, TX",11.0,9.0,Projected,Rated,USA,5405
+Brendan Cooper,M,False,226803,"Austin, TX",9.0,10.0,Projected,Projected,USA,5405
+Andrew Friedrich,M,False,1241781,"Round Rock, TX",3.0,0.0,Projected,Unrated,USA,5405
+Josh Friedrich,M,False,1393139,"Round Rock, TX",4.0,4.0,Unrated,Unrated,USA,5405
+Shaimaa Elsisi,F,False,1409214,"Austin, TX",9.0,9.0,Unrated,Unrated,USA,5405
+Ryan Rowe,M,False,69010,"Austin, TX",0.0,9.0,Unrated,Projected,USA,5405
+Joshua Rifkin,M,False,223449,"Austin, TX",10.0,0.0,Projected,Unrated,USA,5405
+Kathryn Stelzer ,F,False,1287812,"Austin, TX",3.0,3.0,Projected,Projected,USA,5405
+Owen Plunkett,M,False,129106,"Austin, TX",7.0,7.0,Rated,Projected,USA,5405
+Oliver Johnson,M,False,709448,"Austin, TX",6.0,7.0,Projected,Projected,USA,5405
+Hayden Hobbick,M,False,374099,"Vlg O The Hls, TX",6.0,6.0,Rated,Rated,USA,5405
+Haydn Steffes,M,False,178558,"Austin, TX",10.0,10.0,Rated,Rated,USA,5405
+Yao Chen,F,False,90971,"Wesley Chapel, FL",9.0,9.0,Rated,Rated,,5470
+Veronica Sampalik,F,False,41794,"Brandon, FL",8.0,8.0,Rated,Projected,USA,5470
+Sofia Rojas,F,False,919286,"Sarasota, FL",10.0,10.0,Rated,Rated,USA,5470
+Gabriella Broadfoot,F,False,259165,Bradenton,10.0,10.0,Rated,Rated,RSA,5470
+Amaya Tiozzo,F,False,117036,"Tampa, FL",7.0,7.0,Rated,Projected,USA,5470
+Isabella Robbiani,F,False,1014155,"Tampa, FL",10.0,10.0,Rated,Projected,PAR,5470
+Jaleesa Leslie,F,False,1423269,"Apopka, FL",11.0,0.0,Rated,Unrated,USA,5470
+Sophia Wang,F,False,127899,"St. Petersburg, FL",10.0,9.0,Rated,Rated,USA,5470
+Kylie Moulin,F,False,77381,"Lithia, FL",10.0,10.0,Rated,Projected,USA,5470
+Muduo Zhou,F,False,763107,"Wesley Chapel, FL",6.0,7.0,Rated,Projected,,5470
+Kerrie Cartwright,F,False,1424785,"Tallahassee, FL",10.0,10.0,,,BAH,5470
+Kiara Tiozzo,F,False,1423270,"Plant City, FL",4.0,4.0,,,,5470
+Harris Caldwell,F,False,226863,"Tampa, FL",9.0,9.0,Rated,Rated,USA,5470
+Sharienne Ricardo,F,False,919305,,8.0,8.0,Unrated,Unrated,CUW,5470
+Bianca Novotna,F,False,268573,,7.0,0.0,Projected,Unrated,,5470
+Satomi Momose,F,False,1156088,,10.0,10.0,Unrated,Unrated,,5470
+Mary Brumfield,F,False,946464,"Bradenton, FL",9.0,10.0,Unrated,Unrated,USA,5470
+Naomi Chileshe Kasulumbe,F,False,1362446,"Wesley Chapel, FL",9.0,0.0,Rated,Unrated,ZAM,5470
+Marcos West Rodriguez,M,False,454739,"Houston, TX",5.0,5.0,Rated,Projected,USA,4473
+Steffi Carruthers,F,False,52610,Samoa,10.0,0.0,Rated,Unrated,SAM,5470
+Genesis Whitelock,F,False,117015,"St. Petersburg, FL",8.0,8.0,Rated,Projected,USA,5470
+Jerricka Boone,F,False,918470,"Chicago, IL",11.0,11.0,Unrated,Unrated,USA,5470
+Lya Kushnirovich,F,False,605734,"Saint Petersburg, FL",9.0,9.0,Unrated,Unrated,USA,5470
+Joseph Dillard,M,False,1333266,"Sachse, TX",7.0,7.0,Unrated,Unrated,USA,4444
+Brayden Bolch,M,False,1286557,"Farmersville, TX",7.0,7.0,Unrated,Unrated,USA,4444
+Alex Dauphinee,M,False,287398,"Argyle, TX",1.0,1.0,Unrated,Unrated,USA,4444
+Kai Joy,M,False,1315042,"Wylie, TX",0.0,0.0,Unrated,Unrated,USA,4444
+Brett Johnson,M,False,496774,"Mckinney, TX",7.0,6.0,Rated,Rated,USA,4444
+Brooklyn Bolch,F,False,1402217,"Farmersville, TX",4.0,4.0,Unrated,Unrated,USA,4444
+Brandon Kim,M,False,1315035,"Wylie, TX",0.0,0.0,Unrated,Unrated,USA,4444
+Sabrina Parker,F,False,1397510,"Farmersville, TX",4.0,4.0,Unrated,Unrated,USA,4444
+Jacob Thompson,M,False,1100712,"Argyle, TX",5.0,5.0,Unrated,Unrated,USA,4444
+Landon Brownlow,M,False,111775,"Sachse, TX",0.0,7.0,Unrated,Projected,USA,4444
+Carlos Gómez,M,False,1402206,"Barquisimeto, Venezuela",7.0,7.0,Unrated,Unrated,VEN,3755
+Gustavo Alvarez,M,False,1399482,"Barquisimeto, Venezuela",10.0,10.0,Unrated,Unrated,VEN,3755
+Alessandro Sallusti,M,False,1399786,"Barquisimeto, Venezuela",6.0,6.0,Unrated,Unrated,VEN,3755
+Kurt Lau,M,False,1426552,"Cabudare, Venezuela",9.0,9.0,,,VEN,3755
+Vladimir Orellana,M,False,1356366,Venezuela,6.0,6.0,Unrated,Unrated,VEN,3755
+Miguel Mir,M,False,1398429,"Barquisimeto, Venezuela",7.0,7.0,Unrated,Unrated,VEN,3755
+Valeria Isabel Teran Bastidas,F,False,1399892,"Barquisimeto, Venezuela",9.0,9.0,Unrated,Unrated,VEN,3755
+Jesús Rodríguez,M,False,1303014,Venezuela,12.0,12.0,Unrated,Unrated,VEN,3755
+Carlos Ferrer,M,False,1041793,Venezuela,10.0,10.0,Projected,Projected,VEN,3755
+Jose Alberto Mendez,M,False,1399209,"Barquisimeto, Venezuela",12.0,12.0,Unrated,Unrated,VEN,3755
+Andrymar Valera,F,False,1232505,Venezuela,11.0,11.0,Unrated,Unrated,VEN,3755
+Sabrina Conde,F,False,1399472,"Barquisimeto, Venezuela",5.0,5.0,Unrated,Unrated,VEN,3755
+Genesis Medina,F,False,1410264,"Barquisimeto, Venezuela",5.0,5.0,Unrated,Unrated,VEN,3755
+Isabela Guilarte,F,False,652483,"Barquisimeto, TX",5.0,0.0,Rated,Unrated,USA,3755
+Diego Pernalete,M,False,1424698,"Barquisimeto, Venezuela",5.0,5.0,,,VEN,3755
+Maurizio Gutierrez,M,False,1259936,Venezuela,7.0,7.0,Unrated,Unrated,VEN,3755
+Oswaldo Medina,M,False,1420857,"Barquisimeto, Venezuela",1.0,1.0,,,VEN,3755
+Alexandra Guilarte,F,False,1241606,Venezuela,4.0,4.0,Unrated,Unrated,VEN,3755
+Manuela Hernandez Escalona,F,False,1399904,"Barquisimeto, Venezuela",4.0,4.0,Unrated,Unrated,VEN,3755
+Yanina Yazlovskaya,F,False,1043257,"Orlando, FL",8.0,8.0,Unrated,,USA,5152
+Rohan Nelthropp,M,False,959430,"Orlando, FL",4.0,4.0,Unrated,Unrated,ISV,5152
+Eve Wasil,F,False,1286084,"Melbourne, FL",8.0,7.0,Rated,Projected,USA,5152
+Danielle Wei,F,False,1299448,"St. Augustine, FL",6.0,6.0,Unrated,Unrated,USA,5152
+Dylan Kling,M,False,1329959,"Orlando, FL",7.0,7.0,Unrated,Unrated,USA,5152
+Kipton Roskaft,M,False,949936,"Windermere, FL",2.0,2.0,Rated,Projected,USA,5152
+Srijan Ganta,M,False,1391106,"Bay Lake, FL",0.0,0.0,Unrated,Unrated,USA,5152
+Gloria Xiao,F,False,962979,"Jacksonville, FL",4.0,0.0,Rated,Unrated,USA,5152
+Diego Pizarro,M,False,743367,"Saint Cloud, FL",4.0,4.0,Rated,Projected,USA,5152
+Grace Hurt,F,False,294039,"Oxford, FL",5.0,5.0,Unrated,Projected,USA,5152
+Xander Clarkson,M,False,880988,"Orlando, FL",4.0,4.0,Unrated,Unrated,USA,5152
+Patricia Gonzalez,F,False,143418,"Orlando, FL",7.0,7.0,Rated,Projected,USA,5152
+Valeriya Higgins,F,False,1299400,"Bradenton, FL",5.0,5.0,Unrated,Unrated,USA,5152
+David Gaffney,M,False,380569,"Austin, IN",2.0,0.0,Projected,Unrated,USA,4883
+Daniel Meador,M,False,1305349,"Salem, IN",2.0,2.0,Unrated,Unrated,USA,4883
+Frederick Nolen,M,False,1295401,"Campbellsburg, IN",5.0,5.0,Unrated,Unrated,USA,4883
+Holland Harris,F,False,1060375,"Orlando, FL",2.0,2.0,Unrated,Unrated,USA,5152
+Noelle D'angelillo,F,False,1075382,"Orlando, FL",5.0,5.0,Rated,Projected,USA,5152
+Blake Fischer,M,False,1242454,"Orlando, FL",7.0,7.0,Unrated,Unrated,USA,5152
+Michael Myrtil,M,False,127774,"Kissimmee, FL",9.0,9.0,Rated,Projected,USA,5152
+Mckenna Battilla,F,False,320132,"Auburndale, FL",6.0,5.0,Rated,Projected,USA,5152
+Pete Tran,M,False,882389,"Orlando, FL",7.0,7.0,Unrated,Unrated,USA,5152
+Shay Gupta,M,False,227017,"Hilton Head Island, SC",8.0,7.0,Rated,Rated,USA,5152
+Anay Patel,M,False,146832,"Lakeland, FL",8.0,8.0,Rated,Projected,USA,5152
+Isabella Hartmann,F,False,256570,"Melbourne Beach, FL",3.0,4.0,Unrated,Unrated,USA,5152
+Lucas Qu,M,False,902276,"Oviedo, FL",4.0,0.0,Rated,Unrated,USA,5152
+Nikolas Kumria,M,False,841175,"Lakeland, FL",4.0,4.0,Rated,Projected,USA,5152
+Nathan Smiley,M,False,363379,"Fort Myers, FL",9.0,0.0,Rated,Unrated,USA,5152
+Pranav Kumar,M,False,396885,"Orlando, FL",5.0,6.0,Rated,Projected,USA,5152
+Nickolas Bertou,M,False,897088,,6.0,6.0,Unrated,Unrated,,5152
+Dion Loutas,M,False,802584,"Wesley Chapel South, FL",11.0,11.0,Rated,Projected,AUS,5152
+Joy Jia,F,False,1162565,"Gainesville, FL",7.0,7.0,Unrated,Unrated,USA,5152
+Ramiyah Anglin,F,False,1367645,"Haines City, FL",4.0,4.0,Unrated,Unrated,USA,5152
+William Dickens,M,False,578947,"Orlando, FL",5.0,5.0,Rated,Projected,USA,5152
+Clarice Ouvarova,F,False,844655,"Bunnell, FL",3.0,3.0,Rated,Projected,USA,5152
+Luis Sanchez,M,False,1228314,"Kissimmee, FL",8.0,8.0,Unrated,Unrated,DOM,5152
+Andrea Mijatovic,F,False,1344396,"Palm Bay, FL",5.0,5.0,Unrated,Unrated,USA,5152
+Meghan Kumria,F,False,194240,"Lakeland, FL",7.0,7.0,Rated,Projected,USA,5152
+Sarah Corinne Holditch,F,False,1399440,"Orlando, FL",4.0,4.0,Unrated,Unrated,USA,5152
+Maria Way,F,False,230362,"Alpharetta, GA",7.0,7.0,Rated,Rated,USA,5152
+Carsten Balao,M,False,143936,"Windermere, FL",9.0,0.0,Rated,Unrated,USA,5152
+Abraham Way,M,False,1373237,"Milton, MA",4.0,4.0,Unrated,Unrated,USA,5152
+Lacey Tanner,F,False,229589,"Orlando, FL",16.0,16.0,Unrated,Unrated,USA,5152
+Isabella Basson,F,False,779834,,6.0,4.0,Rated,Projected,RSA,5980
+Hanika Breet,F,False,1259486,"Olifantsfontein, South Africa",4.0,4.0,Rated,Unrated,RSA,5980
+Waldo Bosch,M,False,1000427,"Pretoria, South Africa",9.0,7.0,Rated,Unrated,RSA,5980
+Anouk Alexandra Viljoen,F,False,1260419,"Olifantsfontein, South Africa",2.0,3.0,Rated,Unrated,RSA,5980
+Tian Wolmarans,M,False,1242562,"Centurion, South Africa",5.0,7.0,Rated,Unrated,RSA,5980
+Mauritz Van Den Heever,M,False,1306588,"Olifantsfontein, South Africa",4.0,7.0,Projected,Unrated,RSA,5980
+Ndzalo Mushwana,F,False,1299520,"Pretoria, South Africa",1.0,4.0,Projected,Unrated,RSA,5980
+Ramòn Hoekstra,M,False,1004694,"Pretoria, South Africa",6.0,6.0,Unrated,Unrated,RSA,5980
+Alexander Brits,M,False,1253450,"Olifantsfontein, South Africa",4.0,7.0,Projected,Unrated,RSA,5980
+Christon N Basson,M,False,1003280,"Olifantsfontein, South Africa",5.0,4.0,Projected,Projected,RSA,5980
+Mikayla De Witt,F,False,1280258,"Olifantsfontein, South Africa",4.0,4.0,Unrated,Unrated,RSA,5980
+Jessica Strydom,F,False,1283304,"Olifantsfontein, South Africa",3.0,3.0,Unrated,Unrated,RSA,5980
+Morgan Jordaan,F,False,779535,"Pretoria, South Africa",6.0,6.0,Rated,Rated,RSA,5980
+Ruan Van Der Laan,M,False,1027847,,6.0,6.0,Rated,Projected,,5980
+Lara Kamfer,F,False,1260179,"Olifantsfontein, South Africa",1.0,4.0,Projected,Unrated,RSA,5980
+Thomas Frederik Pretorius,M,False,1259955,"Pretoria, South Africa",4.0,4.0,Projected,Unrated,RSA,5980
+Liam Bender,M,False,978896,"Pretoria, South Africa",6.0,6.0,Rated,Projected,RSA,5980
+Rudolph Van Huyssteen,M,False,1004610,"Olifantsfontein, South Africa",4.0,7.0,Rated,Unrated,RSA,5980
+Arthur Paiva De Castro,M,False,950182,,1.0,1.0,Unrated,Unrated,BRA,5577
+Fred Cohen,M,False,896239,,3.0,6.0,Projected,Unrated,BRA,5577
+Lucas Siquara Villafuerte,M,False,910445,"Rio De Janeiro, Brazil",4.0,3.0,Rated,Projected,BRA,5577
+Joao Vignatti,M,False,1301139,Brazil,1.0,4.0,Projected,Unrated,BRA,5577
+Carlos Henrique Gomes Da Silva,M,False,896745,,11.0,11.0,Unrated,Unrated,BRA,5577
+Cauã Schemidt,M,False,1402098,Brazil,4.0,6.0,Rated,Unrated,BRA,5577
+Kaike Parcias,M,False,1300252,Brazil,2.0,2.0,Projected,Unrated,BRA,5577
+Felipe Paes Leme Espíndola,M,False,1245196,"São Francisco, Brazil",2.0,7.0,Projected,Unrated,BRA,5577
+Matheus Taule,M,False,880160,,7.0,7.0,Unrated,Unrated,BRA,5577
+Dudu Rocha,M,False,859047,"Rio De Janeiro, Brazil",8.0,8.0,Unrated,Unrated,,5577
+Miguel Daiha,M,False,854840,"Leblon, Brazil",2.0,5.0,Projected,Unrated,BRA,5577
+Enzo Parigot,M,False,1105024,Brazil,1.0,3.0,Projected,Unrated,BRA,5577
+Joao Paulo Cunha,M,False,898040,"Rio De Janeiro, Brazil",4.0,4.0,Rated,Unrated,BRA,5577
+Pedro Couto,M,False,1367662,"Ipanema, Brazil",2.0,5.0,Projected,Unrated,BRA,5577
+Lucca Almeida,M,False,918321,Brazil,7.0,7.0,Projected,Projected,BRA,5577
+Vitoria Maximiliano,F,False,896844,Brazil,5.0,5.0,Rated,Rated,BRA,5577
+Julia Barrozo Do Amaral,F,False,1259403,Brazil,4.0,8.0,Projected,Unrated,BRA,5577
+Priscila Del Carmen Arroyo Ferreira,F,False,864538,"Rio De Janeiro, Brazil",4.0,0.0,Projected,Unrated,BRA,5577
+Ana Rosa Klabin,F,False,1416577,"Leblon, Brazil",5.0,5.0,Unrated,Unrated,BRA,5577
+Agnes Pegorim,F,False,910443,"Itaipu, Brazil",5.0,0.0,Projected,Unrated,BRA,5577
+Sofia Orsini Resende,F,False,921519,"Rio De Janeiro, Brazil",4.0,0.0,Projected,Unrated,BRA,5577
+Isabella Junger,F,False,912971,Brazil,1.0,1.0,Unrated,Unrated,BRA,5577
+João Vitor Pontes,M,False,953532,,8.0,8.0,Projected,Unrated,,5577
+Matheus Pereira,M,False,747785,"Rio De Janeiro, Brazil",10.0,10.0,Unrated,Unrated,BRA,5577
+Guilherme Barbosa Quirino Costa,M,False,995797,"Rio De Janeiro, Brazil",11.0,11.0,Unrated,Unrated,BRA,5577
+Tasso Alves Moreira,M,False,864537,Brazil,9.0,9.0,Rated,Projected,BRA,5577
+Thiago Nejm ,M,False,367319,"Grand Junction, CO",10.0,9.0,Projected,Projected,BRA,5577
+Christian Felix Torres,M,False,883820,Brazil,8.0,8.0,Projected,Unrated,BRA,5577
+Pedro Tadeu Macedo,M,False,857320,"Petrópolis, Brazil",6.0,6.0,Rated,Unrated,BRA,5577
+João Victor Paiva De Castro,M,False,950112,Brazil,1.0,1.0,Unrated,Unrated,BRA,5577
+Taz De Alencar,M,False,1399446,"Rio De Janeiro, Brazil",10.0,10.0,Unrated,Unrated,BRA,5577
+Rodrigo Ludgero,M,False,1399891,"Icaraí, Brazil",7.0,7.0,Unrated,Unrated,BRA,5577
+João Farinon,M,False,1368248,,7.0,7.0,Unrated,Unrated,BRA,5577
+Rodrigo Cunha,M,False,369465,Brazil,8.0,8.0,Rated,Rated,BRA,5577
+João Henrique Nossar R. Da Rocha,M,False,1042424,Brazil,6.0,5.0,Rated,Projected,BRA,5577
+Felipe Moraes,M,False,839901,Brazil,7.0,1.0,Rated,Unrated,BRA,5577
+Gabriel Soares,M,False,905247,Brazil,7.0,8.0,Rated,Projected,BRA,5577
+Victor Hugo Arroyo Ferreira,M,False,864520,"Rio De Janeiro, Brazil",7.0,7.0,Rated,Projected,BRA,5577
+Marcelo Brocchi Filho,M,False,965000,Brazil,7.0,8.0,Rated,Projected,BRA,5577
+Bernardo Aguiar,M,False,974719,"Rio De Janeiro, Brazil",7.0,6.0,Rated,Unrated,BRA,5577
+Felipe Vignatti,M,False,856467,,6.0,7.0,Projected,Unrated,BRA,5577
+Miguel Moreira Sampaio,M,False,932736,"Vargem Pequena, Brazil",4.0,6.0,Rated,Unrated,BRA,5577
+Thiago Lüdorf,M,False,1027271,"Rio De Janeiro, Brazil",3.0,4.0,Projected,Unrated,BRA,5577
+Joao Canto,M,False,905242,"Rio De Janeiro, Brazil",4.0,0.0,Rated,Unrated,BRA,5577
+Gabriel Guttman,M,False,885839,"Rio De Janeiro, Brazil",3.0,7.0,Projected,Unrated,BRA,5577
+Henri Shibata,M,False,1361447,"Barra Da Tijuca, Brazil",5.0,5.0,Rated,Unrated,BRA,5577
+Bruno Matta,M,False,669500,"Rio De Janeiro, Brazil",4.0,4.0,Rated,Projected,BRA,5577
+Guilherme Gameleira,M,False,958247,"Rio De Janeiro, Brazil",5.0,5.0,Rated,Unrated,BRA,5577
+Valter Davi Albuquerque,M,False,883816,"Gávea, Brazil",5.0,6.0,Rated,Unrated,BRA,5577
+Tiago Cantisano,M,False,925296,"Barra Da Tijuca, Brazil",4.0,0.0,Rated,Unrated,BRA,5577
+Rodrigo Schroeder,M,False,854657,"Barra Da Tijuca, Brazil",5.0,5.0,Rated,Unrated,BRA,5577
+Bernardo Portugal,M,False,1296731,Brazil,4.0,6.0,Projected,Unrated,BRA,5577
+João Pedro Werner Ferreira,M,False,947694,"Ipanema, Brazil",3.0,6.0,Rated,Unrated,BRA,5577
+Antonio Vitor Monteiro,M,False,896800,"Rio De Janeiro, Brazil",5.0,4.0,Rated,Rated,BRA,5577
+Pedro Montel,M,False,864908,,5.0,6.0,Projected,Unrated,BRA,5577
+Rafael Schroeder,M,False,854087,"Barra Da Tijuca, Brazil",6.0,5.0,Rated,Unrated,BRA,5577
+Luiz Fernando Dias Zacconi Pimenta,M,False,975717,"Barra Da Tijuca, Brazil",5.0,6.0,Rated,Unrated,BRA,5577
+Gustavo Monteiro,M,False,975930,"Niterói, Brazil",9.0,9.0,Unrated,Unrated,BRA,5577
+Igor Nalin,M,False,956336,"Rio Das Ostras, Brazil",4.0,8.0,Rated,Unrated,BRA,5577
+Yan Gabriel Soares,M,False,876703,Brazil,3.0,5.0,Projected,Unrated,BRA,5577
+Danilo Almada,M,False,1359945,"Rio De Janeiro, Brazil",1.0,7.0,Projected,Unrated,BRA,5577
+Joaquim Grumser,M,False,1367663,Brazil,2.0,7.0,Projected,Unrated,BRA,5577
+Laís Negreiros,F,False,970170,Brazil,1.0,1.0,Unrated,,BRA,5577
+Yosef Gershon,M,False,1082962,,11.0,11.0,Unrated,Unrated,USA,3394
+Maxence Lippens,F,False,398886,"Palmetto, FL",6.0,6.0,Rated,Projected,USA,3394
+Joe Stevens,M,False,497492,"Dripping Springs, TX",1.0,1.0,Projected,Projected,USA,5788
+Robert Fisher,M,False,856897,,8.0,8.0,Unrated,Unrated,USA,5788
+Martin Kowalewski,M,False,1313969,"Austin, TX",5.0,5.0,Unrated,Unrated,USA,5788
+Steve Cossette,M,False,911672,"Dripping Springs, TX",4.0,4.0,Unrated,Unrated,USA,5788
+Anders Eriksson,M,False,1157473,"Austin, TX",0.0,0.0,Unrated,Unrated,USA,5788
+Kevin Franta,M,False,1406886,"Dripping Springs, TX",5.0,5.0,Unrated,Unrated,USA,5788
+Marco Laguna,M,False,1300110,"Mérida, Mexico",6.0,10.0,Projected,Unrated,MEX,5236
+Jorge Abreu,M,False,1311354,"Mérida, Mexico",11.0,11.0,Rated,Projected,MEX,5236
+David Z Lastiri,M,False,1402847,"Mérida, Mexico",5.0,5.0,Unrated,Unrated,MEX,5236
+Rodik Chile,M,False,1304060,"Mérida, Mexico",5.0,7.0,Projected,Unrated,MEX,5236
+Oscar Hernández,M,False,1415336,"Mérida, Mexico",6.0,6.0,Unrated,Unrated,MEX,5236
+Emilio Zavala Salinas,M,False,1300125,"Mérida, Mexico",7.0,0.0,Rated,Unrated,MEX,5236
+Aleksandra Sophia Lopez Savos,F,False,1100845,"Playa Del Carmen, Mexico",7.0,7.0,Unrated,Unrated,MEX,5236
+Nathaniel Dominick Macedo,M,False,1296098,"Mérida, Mexico",6.0,7.0,Projected,Unrated,MEX,5236
+Diego Occelli,M,False,1390306,"Mérida, Mexico",7.0,7.0,Unrated,Unrated,MEX,5236
+Diego Hatem,M,False,1311353,"Mérida, Mexico",10.0,10.0,Unrated,Unrated,MEX,5236
+Maria Fernanda Hatem Arias,F,False,917746,Mexico,6.0,6.0,Projected,Projected,MEX,5236
+Eva Carr,F,False,1297125,"Mérida, Mexico",4.0,5.0,Projected,Unrated,MEX,5236
+Kenia Paz,F,False,1297302,"Mérida, Mexico",5.0,5.0,Projected,Unrated,MEX,5236
+Nicte Paz,F,False,1410270,"Mérida, Mexico",3.0,3.0,Unrated,Unrated,MEX,5236
+Luis Hernández,M,False,1415335,"Mérida, Mexico",7.0,7.0,Unrated,Unrated,MEX,5236
+Ramiro Ramirez,M,False,267954,Mexico,10.0,10.0,Rated,Rated,MEX,5236
+Pablo Emanuel Olivera Hernandez,M,False,1298139,"Mérida, Mexico",5.0,5.0,Projected,Unrated,MEX,5236
+Diego Martinez Macias,M,False,794364,"Mérida, Mexico",9.0,9.0,Rated,Projected,USA,5236
+Sofia Nardone,F,False,1300010,"Mérida, Mexico",4.0,4.0,Projected,Unrated,MEX,5236
+Roger Chile,M,False,1304058,"Mérida, Mexico",5.0,7.0,Projected,Unrated,MEX,5236
+Sofía Teran Ríos,F,False,1413100,"Mérida, Mexico",9.0,9.0,Unrated,Unrated,MEX,5236
+Patricio Garcia,M,False,803633,Mexico,6.0,7.0,Projected,Projected,USA,5236
+Regina Santiago,F,False,1299482,"Mérida, Mexico",4.0,6.0,Projected,Unrated,MEX,5236
+Oliver Staeffler,M,False,699726,Mexico,0.0,0.0,Unrated,Unrated,MEX,5236
+Mauricio Manzano,M,False,1299507,"Mérida, Mexico",6.0,7.0,Projected,Unrated,MEX,5236
+Ivanna Franco,F,False,1303776,"Mérida, Mexico",5.0,7.0,Projected,Unrated,MEX,5236
+Adan Gomez,M,False,1390894,"Mérida, Mexico",11.0,11.0,,,MEX,5236
+Mauricio Abreu,M,False,1296021,"Mérida, Mexico",10.0,10.0,Unrated,Unrated,MEX,5236
+Aimee Reynoso,F,False,1162983,Mexico,5.0,5.0,Unrated,Unrated,MEX,5236
+Alonzo Velazquez,M,False,1304338,"Mérida, Mexico",5.0,7.0,Projected,Unrated,MEX,5236
+Paulina Alvarez,F,False,1313608,Mexico,8.0,8.0,Rated,Rated,,5236
+Carlos Flores Cepeda,M,False,1402179,"Monterrey, Mexico",8.0,8.0,Unrated,Unrated,MEX,5239
+Alejandro Rechy,M,False,1199287,,6.0,0.0,Projected,Unrated,USA,5239
+Paulina Rechy,F,False,1199285,,2.0,0.0,Projected,Unrated,USA,5239
+Ana Paula Gallegos,F,False,1402222,"Monterrey, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Leopoldo Moreno,M,False,635025,"Austin, TX",5.0,0.0,Projected,Unrated,USA,5239
+Cordelia Villarreal G,F,False,1398502,"San Pedro Garza García, Mexico",2.0,2.0,Unrated,Unrated,MEX,5239
+Jesusalberto Sosa,M,False,1401807,"San Pedro Garza García, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Sebastian Garay Zambrano,M,False,1402196,"San Pedro Garza García, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Jose Enrique De La Fuente Martinez,M,False,1402114,"Monterrey, Mexico",5.0,5.0,Unrated,Unrated,MEX,5239
+Maximo Llamas Castellanos,M,False,870710,,6.0,6.0,Unrated,Unrated,MEX,5239
+Andrea Valbuena,F,False,1410269,"Monterrey, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Carolina Peña,F,False,1384803,"Monterrey, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Matilde Garza,F,False,1402782,"San Pedro Garza García, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Andres Cueva,M,False,770934,"San Pedro Garza García, Mexico",0.0,0.0,Inactive,Unrated,MEX,5239
+Nicolas Serrano Garibay,M,False,971960,"Monterrey, Mexico",8.0,8.0,Unrated,Unrated,MEX,5239
+Carlos Patricio Meneses,M,False,1399902,"Monterrey, Mexico",7.0,7.0,Unrated,Unrated,MEX,5239
+Natalia Fantini,F,False,300666,"Mission, TX",8.0,8.0,Projected,Projected,USA,5239
+Alan Gonzalez,M,False,1296027,Mexico,11.0,11.0,Projected,Projected,MEX,5239
+Manuel Esteban Madero Alvarez,M,False,1415305,"Monterrey, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Roberto Gonzalez Salinas,M,False,917591,"Houston, TX",7.0,0.0,Projected,Unrated,USA,5239
+Lya Fernandez,F,False,1042453,"Monterrey, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Patricio Sepúlveda,M,False,1008609,"Monterrey, Mexico",8.0,8.0,Unrated,,MEX,5239
+Luciano Hernandez Ramirez,M,False,1402090,"San Pedro Garza García, Mexico",5.0,5.0,Unrated,Unrated,MEX,5239
+Santiago Sanchez,M,False,1228488,"Monterrey, Mexico",3.0,0.0,Projected,Unrated,MEX,5239
+Michelle Cantu Sada,F,False,1393095,"San Pedro Garza García, Mexico",5.0,5.0,Unrated,Unrated,MEX,5239
+Roberta De La Garza,F,False,1424854,"Monterrey, Mexico",7.0,7.0,,,MEX,5239
+Jaqueline Peña,F,False,1380772,"Monterrey, Mexico",7.0,7.0,Unrated,Unrated,MEX,5239
+Leopoldo Sergio Villarreal Garcia,M,False,1398498,"San Pedro Garza García, Mexico",1.0,1.0,Unrated,Unrated,MEX,5239
+Andrea Rodriguez Cabezas,F,False,1403685,"San Pedro Garza García, Mexico",3.0,3.0,Unrated,Unrated,MEX,5239
+Ricardo Garza De La Garza,M,False,917722,"Monterrey, Mexico",0.0,0.0,Unrated,Unrated,MEX,5239
+Jose Andres Herrera,M,False,1402232,"Ciudad Victoria, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Santiago Manzano,M,False,1402200,"Monterrey, Mexico",7.0,7.0,Unrated,Unrated,MEX,5239
+Eduardo Evaristo Madero Martinez ,M,False,1313649,"Monterrey, Mexico",9.0,9.0,Unrated,Unrated,MEX,5239
+Viviana Rechy,F,False,1199286,,6.0,0.0,Projected,Unrated,USA,5239
+Gabriel Alejandro Luna Leal,M,False,1300355,,7.0,7.0,Unrated,Unrated,,5239
+Sofia Peña,F,False,1384801,"Monterrey, Mexico",5.0,5.0,Unrated,Unrated,MEX,5239
+Federico Cueva,M,False,1402112,"San Pedro Garza García, Mexico",1.0,1.0,Unrated,Unrated,MEX,5239
+Lucio Martinez,M,False,1406909,"Monterrey, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Fernanda Gallegos Pedroza,F,False,1401824,"Monterrey, Mexico",5.0,5.0,Unrated,Unrated,MEX,5239
+Daniel Merino,M,False,1402796,"San Pedro Garza García, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Luisa Maria Arizpe Sierra,F,False,1402797,"Monterrey, Mexico",7.0,7.0,Unrated,Unrated,MEX,5239
+Rodrigo Garza De La Garza,M,False,917584,Mexico,0.0,0.0,Unrated,Unrated,MEX,5239
+Jesús Mario García Salgado,M,False,881957,"Monterrey, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Arturo Mendoza,M,False,1401802,"San Pedro Garza García, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Leonardo Contreras,M,False,1403504,"Monterrey, Mexico",8.0,8.0,Unrated,Unrated,MEX,5239
+Andres Castellanos Carrillo,M,False,873725,,10.0,10.0,Unrated,Unrated,MEX,5239
+Fernanda Martínez,F,False,1406880,"Monterrey, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Diana Bibiana Valbuena Pasachoa,F,False,917843,Mexico,0.0,0.0,Unrated,Unrated,MEX,5239
+Mariana Rodriguez Garcia,F,False,303797,Mexico,0.0,0.0,Unrated,Unrated,MEX,5239
+Cristobal Garcia Muñoz,M,False,1402218,"San Pedro Garza García, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239
+Daniel Gonzalez Garza,M,False,1411562,"Monterrey, Mexico",12.0,12.0,Unrated,Unrated,MEX,5239
+Isabella Velez,F,False,1399495,"Monterrey, Mexico",3.0,3.0,Unrated,Unrated,MEX,5239
+Carolina Villarreal García,F,False,1398494,"San Pedro Garza García, Mexico",3.0,3.0,Unrated,Unrated,MEX,5239
+Emiliano Herrera,M,False,1402111,"Ciudad Victoria, Mexico",8.0,8.0,Unrated,Unrated,MEX,5239
+Óscar Paulo Díaz Tovar,M,False,1406930,"Guadalupe, Mexico",7.0,7.0,Unrated,Unrated,MEX,5239
+Ana Resendez,F,False,1402110,"Ciudad Victoria, Mexico",8.0,8.0,Unrated,Unrated,MEX,5239
+Jose Antonio Herrera,M,False,1402230,"Mcallen, TX",7.0,7.0,Unrated,Unrated,USA,5239
+Alejandro Calles Salinas,M,False,1402786,"Monterrey, Mexico",6.0,6.0,Unrated,Unrated,MEX,5239
+Michelle Connor,F,False,803783,"Monterrey, Mexico",10.0,10.0,Unrated,Unrated,MEX,5239
+Paulina Treviño,F,False,1401803,"Monterrey, Mexico",4.0,4.0,Unrated,Unrated,MEX,5239

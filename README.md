@@ -43,4 +43,6 @@ scrapy crawl spiderclassname -o result.json
 scrapy crawl spiderclassname -o result.csv
 ```
 
+If you are unable to run the scrapy the project you can still view the ouput of spider in **result.csv** file located in the folder.
+
 Happy Scraping :)
